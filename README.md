@@ -34,6 +34,10 @@ Password: secret_sauce
 
 ---
 
+#### Cấu trúc project
+
+![Cấu trúc project](anh/anh-cautruc.png)
+
 ## 🧪 4. Test Cases
 
 ### ✔ Test Case 1: Login
