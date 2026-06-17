@@ -30,6 +30,8 @@ Tài khoản test:
 Username: standard_user  
 Password: secret_sauce  
 
+![web test](anh/anh-test.png)
+
 ---
 
 ## 🧪 4. Test Cases
