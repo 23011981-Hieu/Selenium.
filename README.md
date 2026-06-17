@@ -42,6 +42,8 @@ Password: secret_sauce
 
 File: `test_login.py`
 
+![Login Test](anh/anh-login.png)
+
 ---
 
 ### ✔ Test Case 2: Add to Cart
@@ -51,6 +53,8 @@ File: `test_login.py`
 
 File: `test_add_cart.py`
 
+![Add to Cart](anh/anh-add.png)
+
 ---
 
 ### ✔ Test Case 3: View Cart
@@ -59,6 +63,8 @@ File: `test_add_cart.py`
 - Kiểm tra trang cart hiển thị
 
 File: `test_view_cart.py`
+
+![View Cart](anh/anh-view.png)
 
 ---
 
