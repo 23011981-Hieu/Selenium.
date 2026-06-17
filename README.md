@@ -79,9 +79,11 @@ File: `test_view_cart.py`
 ### Bước 1: Cài đặt thư viện Selenium
 ```bash
 pip install selenium
+```
 
-### bước 2: Chạy test cases
+### Bước 2: Chạy test cases
 ```bash
 python test_login.py
 python test_add_cart.py
 python test_view_cart.py
+```
